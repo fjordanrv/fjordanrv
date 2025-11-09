@@ -1,13 +1,13 @@
 # 👋 ¡Hola! Soy Franco
-Estudiante del Máster en Data Science | R 📊 y Python 🐍 | Machine Learning y Visualización
+Analista de Datos | Máster en Data Science | R 📊 y Python 🐍
 
 Transformo datos en decisiones.  
-Aquí encontrarás mis proyectos más relevantes y mi progreso durante el máster.
+Este portafolio reúne proyectos desarrollados durante mi máster y otros personales, enfocados en análisis de datos, machine learning y visualización.
 
 ## 🚀 Portafolio
-- 📁 [Portafolio del Máster en Data Science](https://github.com/tuusuario/master-data-science-portfolio)
-- 🐍 [Proyectos en Python](https://github.com/tuusuario/proyectos-master-python)
-- 📊 [Proyectos en R](https://github.com/tuusuario/proyectos-master-R)
+- 🐍 [Proyectos en Python](https://github.com/tuusuario/proyectos-python)
+- 📊 [Proyectos en R](https://github.com/tuusuario/proyectos-R)
+- 💼 [Proyectos destacados](https://github.com/tuusuario/portfolio)
 
 ## 🧰 Herramientas
 Python • R • SQL • Power BI • Git • Machine Learning • Data Visualization
