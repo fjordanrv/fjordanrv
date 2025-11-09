@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Franco
+Estudiante del Máster en Data Science | R 📊 y Python 🐍 | Machine Learning y Visualización
 
-<!--
-**fjordanrv/fjordanrv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Transformo datos en decisiones.  
+Aquí encontrarás mis proyectos más relevantes y mi progreso durante el máster.
 
-Here are some ideas to get you started:
+## 🚀 Portafolio
+- 📁 [Portafolio del Máster en Data Science](https://github.com/tuusuario/master-data-science-portfolio)
+- 🐍 [Proyectos en Python](https://github.com/tuusuario/proyectos-master-python)
+- 📊 [Proyectos en R](https://github.com/tuusuario/proyectos-master-R)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Herramientas
+Python • R • SQL • Power BI • Git • Machine Learning • Data Visualization
+
+📬 **Contacto:** [LinkedIn](https://linkedin.com/in/tuusuario) | [Email](mailto:tuemail@example.com)
