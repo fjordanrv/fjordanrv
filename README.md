@@ -12,4 +12,4 @@ Este perfil reúne mis proyectos en análisis de datos, machine learning y visua
 ## 🧰 Herramientas
 Python • R • SQL • Power BI • GitHub • Machine Learning • Data Visualization
 
-📬 [LinkedIn](https://linkedin.com/in/tuusuario) | [Email](mailto:tuemail@example.com)
+📬 [LinkedIn](https://www.linkedin.com/in/fjordanrv) | [Email](fjordanrv@pm.me)
