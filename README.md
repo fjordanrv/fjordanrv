@@ -5,9 +5,9 @@ Transformo datos en decisiones.
 Este perfil reúne mis proyectos en análisis de datos, machine learning y visualización.
 
 ## 🚀 Portafolio
-- 🐍 [Proyectos en Python](https://github.com/tuusuario/proyectos-python)
-- 📊 [Proyectos en R](https://github.com/tuusuario/proyectos-R)
-- 💼 [Portfolio de Data Science](https://github.com/tuusuario/portfolio)
+- 🐍 [Proyectos en Python](https://github.com/fjordanrv/proyectos-python)
+- 📊 [Proyectos en R](https://github.com/fjordanrv/proyectos-R)
+- 💼 [Portfolio de Data Science](https://github.com/fjordanrv/portfolio)
 
 ## 🧰 Herramientas
 Python • R • SQL • Power BI • GitHub • Machine Learning • Data Visualization
