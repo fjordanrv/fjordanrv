@@ -53,6 +53,7 @@ Incluye:
 * identificación de perfiles similares para reemplazo
 
 🔗 https://github.com/fjordanrv/Analisis_Barcelona
+
 ---
 
 ## 🧠 Enfoque técnico
