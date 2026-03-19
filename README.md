@@ -1,9 +1,11 @@
 # 👋 Hola, soy Franco Jordan
 
-📊 Data Analyst especializado en **Sports Analytics (fútbol)**
+📊 Data Analyst | Sports Analytics (Football)
+Especializado en scouting, evaluación de jugadores y modelos de decisión
+
 🎓 Máster en Data Science | Python • R • SQL
 
-Trabajo en el desarrollo de modelos y herramientas de análisis para **scouting y toma de decisiones deportivas**, combinando datos, visualización y contexto táctico.
+Trabajo en el desarrollo de modelos y herramientas analíticas para **scouting y toma de decisiones deportivas**, combinando datos, visualización y contexto táctico.
 
 ---
 
@@ -15,8 +17,11 @@ Plataforma end-to-end para **evaluación de jugadores y gestión de scouting**, 
 
 🔗 https://github.com/fjordanrv/sports-scouting-platform
 
+**Contexto:**
+Proyecto desarrollado con enfoque en uso real en entorno de club semiprofesional.
+
 **Qué resuelve:**
-Centraliza datos de scouting dispersos y permite transformar observaciones en **insights accionables**.
+Centraliza datos de scouting dispersos y transforma observaciones en **insights accionables y comparables**.
 
 **Incluye:**
 
@@ -29,41 +34,47 @@ Centraliza datos de scouting dispersos y permite transformar observaciones en **
 
 ## 📊 Otros proyectos destacados
 
-### Lamine Yamal / Pedri – Scouting Analysis
+### Lamine Yamal / Pedri – Player Analysis
 
 🔗 https://github.com/fjordanrv/Analisis_Lamine-Pedri
 
 * análisis comparativo con jugadores de élite
-* percentiles y métricas normalizadas
+* métricas normalizadas (per 90)
+* percentiles y benchmarking
 * perfil de rendimiento ofensivo
 
 ---
 
-### FC Barcelona – Defensive Structure Analysis
+### FC Barcelona – Team Tactical Analysis
 
 🔗 https://github.com/fjordanrv/Analisis_Barcelona
 
-* impacto estructural tras cambios en la defensa
-* métricas de build-up y progresión
+* análisis estructural del sistema defensivo
+* métricas de progresión y build-up
+* comparación entre temporadas
 * identificación de perfiles de reemplazo
 
 ---
 
 ## 🧠 Qué hago (en la práctica)
 
-* desarrollo de **pipelines de datos (ETL)**
-* análisis exploratorio y generación de insights
-* modelos de **similitud de jugadores**
-* visualización orientada a decisiones deportivas
+* diseño e implementación de pipelines de datos (extracción, limpieza y modelado)
+* construcción de métricas avanzadas para evaluación de jugadores
+* desarrollo de modelos de similitud para scouting
+* análisis exploratorio (EDA) orientado a insights
+* visualización enfocada en toma de decisiones deportivas
 
 ---
 
 ## 🧰 Stack
 
 **Lenguajes:** Python • R • SQL
+
 **Data:** Pandas • NumPy • Scikit-learn
-**Visualización:** Matplotlib • Seaborn
-**Herramientas:** Streamlit • Supabase • Power BI • Git
+
+**Visualización:** Matplotlib • Seaborn • Streamlit
+
+**Herramientas:** Supabase • Power BI • Git
 
 ---
 
@@ -73,13 +84,7 @@ Desarrollando una plataforma de scouting para un club semiprofesional, enfocada 
 
 * evaluación estructurada de jugadores
 * gestión de datos en la nube
-* soporte a decisiones deportivas
-
----
-
-## 📌 Portfolio completo
-
-👉 https://github.com/fjordanrv
+* generación de insights para decisiones deportivas
 
 ---
 
