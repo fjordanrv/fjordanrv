@@ -26,7 +26,7 @@ Permite centralizar información y generar insights para la **toma de decisiones
 
 ---
 
-### 📊 Lamine Yamal – Scouting Analysis
+### 📊 Lamine Yamal / Pedri – Scouting Analysis
 
 Análisis de rendimiento y perfil de juego basado en métricas avanzadas, comparado con jugadores de las 5 grandes ligas.
 
@@ -37,7 +37,7 @@ Incluye:
 * visualización del perfil del jugador
 * análisis de contribución ofensiva
 
-🔗 (en desarrollo – próximo repositorio independiente)
+🔗 https://github.com/fjordanrv/Analisis_Lamine-Pedri
 
 ---
 
