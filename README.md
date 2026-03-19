@@ -52,8 +52,7 @@ Incluye:
 * análisis del sistema defensivo
 * identificación de perfiles similares para reemplazo
 
-🔗 (en desarrollo – próximo repositorio independiente)
-
+🔗 https://github.com/fjordanrv/Analisis_Barcelona
 ---
 
 ## 🧠 Enfoque técnico
